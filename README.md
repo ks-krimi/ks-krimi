@@ -8,7 +8,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
  [![Ks Krimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks-krimi&theme=tokyonight)](https://github.com/ks-krimi/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ks-krimi&layout=compact)](https://github.com/ks-krimi/github-readme-stats)
 
-✨ Codersrank ✨ 
+✨ Codersrank ✨                                                                                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&show_icons=true&username=ks-krimi&badges=2&show-avatar=true&style=--header-bg-color:%231769aa90;--border-radius:4px" />
  
 Merci pour votre visite. 😎✌️
