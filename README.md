@@ -7,7 +7,7 @@
  <thead>
    <tr>
      <th>✨ Codersrank ✨</th>
-     <th>✨ Github Top Languages ✨</th>
+     <th>✨ Github Stats ✨</th>
    </tr>
  </thead>
  <tbody>
