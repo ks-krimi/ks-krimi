@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ ✨ Moi c'est `Nico`, un ✨`développeur fullstack js`✨.\
+ 
+`Etudiant` de l'université de Fianarantsoa et aussi un `autodidacte`. 🤩
+
+\
+Merci pour votre visite. 😎✌️
 <!--
 **ks-krimi/ks-krimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
