@@ -1,13 +1,13 @@
 ### Hi there 👋
 
- ✨ Moi c'est `Nico`, un ✨`développeur fullstack js`✨.\
+ ✨ Moi c'est `Nico`, un ✨`développeur fullstack js`✨.
  
 `Etudiant` de l'université de Fianarantsoa et aussi un `autodidacte`. 🤩
 <table>
  <thead>
    <tr>
-     <th>Codersrank</th>
-     <th>Github Top Languages</th>
+     <th>✨ Codersrank ✨</th>
+     <th>✨ Github Top Languages ✨</th>
    </tr>
  </thead>
  <tbody>
