@@ -5,6 +5,11 @@
 `Etudiant` de l'université de Fianarantsoa et aussi un `autodidacte`. 🤩
 
 \
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ks-krimi&badges=2&show-avatar=true&style=--header-bg-color:#edf1f3;--border-radius:4px"
+/>
+
+
 Merci pour votre visite. 😎✌️
 <!--
 **ks-krimi/ks-krimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
