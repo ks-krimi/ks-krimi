@@ -13,11 +13,11 @@
  <tbody>
    <tr>
      <td> 
-      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&show_icons=true&username=ks-krimi&badges=2&show-avatar=true&style=--header-bg-color:%23ab003caa;--border-radius:4px" />
+      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&show_icons=true&username=ks-krimi&badges=2&show-avatar=true&style=--header-bg-color:%231769aa90;--border-radius:4px" />
     </td>
      <td>      
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks-krimi&theme=radical)](https://github.com/ks-krimi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks-krimi&theme=tokyonight)](https://github.com/ks-krimi/github-readme-stats)
       
 
    </tr>
