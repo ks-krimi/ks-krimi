@@ -9,7 +9,7 @@
  [![Ks Krimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks-krimi&theme=tokyonight)](https://github.com/ks-krimi/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ks-krimi&theme=tokyonight&layout=compact)](https://github.com/ks-krimi/github-readme-stats)
  
  
-Merci pour votre visite. 😎✌️
+😎✌️
  
  
 <!--
