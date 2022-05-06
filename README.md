@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ✨ Moi c'est `Nico`, un ✨`développeur full stack js`✨.
+ ✨ Moi c'est `Nico`, ✨`développeur full stack`✨.
  
 `Etudiant` de l'université de Fianarantsoa et aussi un `autodidacte`. 🤩
 
