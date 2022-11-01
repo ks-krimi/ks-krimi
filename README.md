@@ -1,8 +1,6 @@
-### Holla 👋
+### Hello 👋
 
- ✨ Moi c'est `Nico`, ✨`développeur full stack`✨.
- 
- ✨ `Etudiant` de l'université de Fianarantsoa et aussi un `autodidacte`. 🤩
+ ✨ I am `Krimi`, a ✨`Software Developer`✨.
 
 ✨ Github Stats ✨                                                                                                                                            | ✨ Most used languages ✨    |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
