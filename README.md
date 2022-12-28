@@ -1,5 +1,12 @@
+<div align="center">
 
-![](https://media0.giphy.com/media/VF5b399S4Su6BVgt1n/giphy.gif)
+![](https://media0.giphy.com/media/QhA69089AQMErDbysh/giphy.gif "Merry Christmas")
+ 
+### 🎄 Thank you for your visit 🎄
+
+And who knows maybe you will become Billionaire by creating the next big thing
+ 
+</div>
 
 <!--
 ### Hello 👋
