@@ -1,5 +1,8 @@
-### Hello 👋
 
+![](https://media0.giphy.com/media/VF5b399S4Su6BVgt1n/giphy.gif)
+
+<!--
+### Hello 👋
  ✨ I am `Krimi`, a ✨`Software Developer`✨.
 
 ✨ Github Stats ✨                                                                                                                                            | ✨ Most used languages ✨    |
@@ -8,9 +11,7 @@
  
  
 ✨✨✨
- 
- 
-<!--
+
 **ks-krimi/ks-krimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.😎✌️
 
 Here are some ideas to get you started:
