@@ -2,7 +2,7 @@
 
 ![](https://media0.giphy.com/media/QhA69089AQMErDbysh/giphy.gif "Merry Christmas")
  
- **✨I am Nico, a Software Developer✨**
+ **👋🏾 Hello, welcome to my account 👋🏾**
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ks-krimi&theme=prussian&mode=weekly&background=FFFFFF00&dates=4B86B&fire=c9510c&ring=c9510c&sideNums=4B86B&sideLabels=4B86B&currStreakLabel=c9510c&currStreakNum=c9510c&border=00000000&stroke=00000000)](https://git.io/streak-stats)
 
