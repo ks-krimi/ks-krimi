@@ -5,7 +5,7 @@
 <img src="https://media2.giphy.com/media/NxpMNq17Y2Khq/giphy.gif" width="250"/>
 </div>
  
-![](https://media0.giphy.com/media/85NnIB9yB2kdBg48b1/giphy.gif "Merry Christmas")
+![](https://media0.giphy.com/media/85NnIB9yB2kdBg48b1/giphy.gif "Happy New Year 2023")
 
 **👋🏾 Hello, welcome to my account 👋🏾**
 
