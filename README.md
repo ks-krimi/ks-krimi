@@ -20,6 +20,8 @@
 <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300"/>
 <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="55"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9510C&center=true&vCenter=true&width=435&lines=%F0%9F%91%BE+HAPPY+DEV'S+DAY+%F0%9F%91%BE;%F0%9F%91%BE+HAPPY+PROGRAMMER'S+DAY+%F0%9F%91%BE)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ks-krimi&theme=prussian&mode=weekly&background=FFFFFF00&dates=4B86B&fire=c9510c&ring=c9510c&sideNums=4B86B&sideLabels=4B86B&currStreakLabel=c9510c&currStreakNum=c9510c&border=00000000&stroke=00000000)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=ks-krimi&color=c9510c&label=Thank+you+for+your+visit+🥰)
