@@ -29,9 +29,6 @@
 <div align="left">
   <img src="https://media1.giphy.com/media/XpIvVdTcGeHTi/giphy.webp" width="100"/>
 </div>
-<div align="right">
-  <img src="https://media1.giphy.com/media/XpIvVdTcGeHTi/giphy.webp" width="100"/>
-</div>
 <img src="https://media2.giphy.com/media/YmRY9ZiS0Yce1oag39/giphy.gif" width="300"/>
 <!-- Halloween end   -->
 
